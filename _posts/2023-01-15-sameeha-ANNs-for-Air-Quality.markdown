@@ -14,9 +14,8 @@ tags:
 
 Using Artificial Neural Networks for Air Quality Assessment and Pollution Forecasting
 
-## Read it here!
-    https://medium.com/purdue-sigai/anns-for-air-quality-assessment-and-pollution-forecasting-paper-overview-296019720be3
-
+## Read it *[here](https://medium.com/purdue-sigai/anns-for-air-quality-assessment-and-pollution-forecasting-paper-overview-296019720be3)!
+    
 ## Key Takeaways from this Article
   * Artificial neural networks (ANNs) are a type of machine learning model that can be used for air quality assessment and pollution forecasting.
   * There are several types of ANNs, including feedforward networks, convolutional neural networks, recurrent neural networks, and long short-term memory networks.
@@ -26,7 +25,7 @@ Using Artificial Neural Networks for Air Quality Assessment and Pollution Foreca
 
 ## Like what you see? 
   Read more about Sameeha and her work here:
-  * https://sameehaafr.super.site/    
-  * https://github.com/sameehaafr
-  * https://www.linkedin.com/in/sameeha-afrulbasha/
+  * [Website](https://sameehaafr.super.site/)    
+  * [GitHub](https://github.com/sameehaafr)
+  * [LinkedIn](https://www.linkedin.com/in/sameeha-afrulbasha/)
 <!-- [^1]: Texture image courtesty of [Lovetextures](http://www.lovetextures.com/) -->
